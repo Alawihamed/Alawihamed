@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alawihamed
+- 👋 Hi, I’m Alawi Hamed
 - 👀 I’m interested in Web Developer
 - 🌱 I’m currently learning ReactJS , Laravel and NodeJS
 - 💞️ I’m looking to collaborate on ...
